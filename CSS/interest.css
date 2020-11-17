@@ -1,0 +1,116 @@
+.interest {
+  margin: auto;
+  height: 561px;
+  width: 1280px;
+  background: url("../image/Vector.svg") #0AA245;
+}
+
+.iterest_Text {
+  padding-top: 40px;
+  padding-bottom: 31px;
+  font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+text-align: center;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* #FFFFFF */
+color: #FFFFFF;
+}
+
+.interest-Box {
+  height: 370px;
+  width: 262px;
+  background: #FFFFFF;
+  /* #DDE1E6 */
+  border: 1px solid #DDE1E6;
+  box-sizing: border-box;
+  border-radius: 10px;
+
+}
+.interest-Boxs {
+    margin-left: 69px;
+    margin-right: 66px;
+    justify-content: space-around; 
+    display: flex;
+  }
+.interest-Image_Box {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.interest-Date {
+  margin-bottom: 6px;
+  margin-left: 30px;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  /* or 140% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #70798E */
+  color: #70798E;
+}
+.interest-Box_Headnig {
+  margin-bottom: 6px;
+  margin-left: 30px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+.read_more {
+  margin-left: 30px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  display: flex;
+  align-items: center;
+  text-decoration-line: underline;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #0071BC */
+  color:  #006FE6;
+}
+
+.go_Blog {
+     display: flex;
+    width: 1120px;
+    margin: auto;
+    margin-top: 30px;
+    align-items: end;
+}
+
+.text_go_Blog a{ 
+   font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  display: flex;
+  align-items: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+ }
+ .mask_Right_go_Blog {
+  width: 24px;
+  height: 24px;
+ 
+ }

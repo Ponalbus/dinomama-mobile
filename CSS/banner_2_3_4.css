@@ -1,0 +1,140 @@
+.banner-Box {
+  display: flex;
+  width: 1120px;
+  margin: auto;
+  margin-bottom: 55px;
+}
+
+
+.banner2 {
+  height: 270px;
+  width: 357px;
+  border-radius: 10px;
+  background: url("../image/banner 2.2.svg") #006FE6 no-repeat;
+  background-position: bottom;
+}
+
+.text-Box_banner2 {
+  height: 83px;
+  width: 297px;
+  padding: 30px 30px 3px 30px;
+}
+
+.text_Banner2_Heading {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+
+.image-Box_banner2 {
+      text-align: center;
+}
+
+.banner3 {
+  height: 270px;
+  width: 357px;
+  border-radius: 10px;
+  background: url("../image/imgGirlBanner.svg");
+}
+
+.text-Box_banner3 {
+  height: 83px;
+  width: 297px;
+  padding: 30px 30px 3px 30px;
+}
+
+.text_Banner3_Heading {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.image-Box_banner3 {
+      text-align: center;
+}
+
+.banner3 {
+  margin: 0 25px;
+  height: 270px;
+  width: 357px;
+  border-radius: 10px;
+  background: url("../image/imgGirlBanner.svg");
+}
+
+.text-Box_banner3 {
+  height: 83px;
+  width: 297px;
+  padding: 30px 30px 3px 30px;
+}
+
+.text_Banner3_Heading {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.image-Box_banner3 {
+      text-align: center;
+}
+
+
+.banner4 {
+  height: 270px;
+  width: 357px;
+  border-radius: 10px;
+  background: url("../image/Stack 2.svg");
+  background-color: #6FBD15;
+}
+
+.text-Box_banner4 {
+  height: 83px;
+  width: 297px;
+  padding: 30px 30px 3px 30px;
+}
+
+.text_Banner4_Heading {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+
+.messageImg {
+  position: fixed;
+  margin-top: 182px;
+}
+
+
+
+
+
+
+
+
