@@ -1,0 +1,288 @@
+
+.topmenu > li {
+  display: inline-block;
+  position: relative;
+}
+.top_menu {
+    background: #0AA245;
+    width: 100%;
+    margin: auto;
+
+}
+.submenu_boy {
+  margin-top: 28px;
+  width: 1280px;
+  height: 436px;
+  position: absolute;
+  z-index: 4;
+  background: white;
+  visibility: hidden;
+  opacity: 0;
+  transform: translate(-7.4%, 16px);
+  transition: .3s;
+}
+.submenu_girl {
+  margin-top: 28px;
+  width: 1280px;
+  height: 436px;
+  position: absolute;
+  z-index: 4;
+  background: white;
+  visibility: hidden;
+  opacity: 0;
+  transform: translate(-24.7%, 16px);
+  transition: .3s;
+}
+.submenu_clothes {
+  margin-top: 28px;
+  width: 1280px;
+  height: 436px;
+  position: absolute;
+  z-index: 4;
+  background: white;
+  visibility: hidden;
+  opacity: 0;
+  transform: translate(-40.1%, 16px);
+  transition: .3s;
+}
+.submenu_shoes {
+  margin-top: 28px;
+  width: 1280px;
+  height: 436px;
+  position: absolute;
+  z-index: 4;
+  background: white;
+  visibility: hidden;
+  opacity: 0;
+  transform: translate(-55.0%, 16px);
+  transition: .3s;
+}
+.submenu_brends {
+  margin-top: 28px;
+  width: 1280px;
+  height: 436px;
+  position: absolute;
+  z-index: 4;
+  background: white;
+  visibility: hidden;
+  opacity: 0;
+  transform: translate(-69.0%, 16px);
+  transition: .3s;
+}
+.submenu_discount {
+  margin-top: 28px;
+  width: 1280px;
+  height: 436px;
+  position: absolute;
+  z-index: 4;
+  background: white;
+  visibility: hidden;
+  opacity: 0;
+  transform: translate(-83.7%, 16px);
+  transition: .3s;
+}
+.submenu {
+  left: 468px;
+  height: 436px;
+  width: 1280px;
+  position: absolute;
+  z-index: 4;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 0 30px rgba(0,0,0,.2);
+  box-sizing: border-box;
+  visibility: hidden;
+  opacity: 0;
+  transform: translate(-50%, 20px);
+  transition: .3s;
+}
+.topmenu > li:hover .submenu {
+  visibility: visible;
+  opacity: 1;
+}
+.topmenu > li:hover .submenu_boy {
+  visibility: visible;
+  opacity: 1;
+}
+.topmenu > li:hover .submenu_girl {
+  visibility: visible;
+  opacity: 1;
+}
+.topmenu > li:hover .submenu_clothes {
+  visibility: visible;
+  opacity: 1;
+}
+.topmenu > li:hover .submenu_shoes {
+  visibility: visible;
+  opacity: 1;
+}
+.topmenu > li:hover .submenu_brends {
+  visibility: visible;
+  opacity: 1;
+}
+.topmenu > li:hover .submenu_discount {
+  visibility: visible;
+  opacity: 1;
+}
+.slider-box1 {
+  display: flex;
+}
+
+
+.top-menu > li:hover .slider-menu{
+  visibility: visible;
+}
+.slider-menu {
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  height: 436px;
+  width: 1280px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+
+}
+
+.topmenu {
+    width: 1156px;
+    margin: auto;
+     margin-bottom: 40px;
+    list-style: none;
+    height: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0;
+   
+}
+}
+.menu {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+  display: flex;
+  align-items: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  /* #202329 */
+  color: #202329;
+}
+.menu-items {
+  margin-top: 10px;
+  margin-bottom: 8px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 16px;
+  /* identical to box height, or 160% */
+  display: flex;
+  align-items: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #70798E */
+  
+}
+.menu-box ul li {
+  text-decoration: none;
+  list-style: none;
+}
+.menu-box ul {
+  padding-left: 0px;
+
+}
+
+.box-1 {
+  margin-left: 75px;
+}
+
+.menu-box {
+  width: 94px;
+  margin-right: 20px;
+}
+
+
+.arrow_down {
+  width: 13px;
+  position: absolute;
+  left: 100%;
+  right: -100%;
+  top: 0%;
+  bottom: 0%;
+
+  /* #FFFFFF */
+  background: #FFFFFF;
+  border-radius: 4px;
+  transform: rotate(90deg);
+}
+
+.box-girl {
+  display: flex;
+  width: 480px;
+  height: 480px;
+}
+
+.newCollection {
+  width: 256px;
+  height: 355px;
+  padding-left: 30px;
+  padding-top: 275px;
+  background: url("../image/girl_banner 2.svg") no-repeat;
+  border-radius: 10px;
+  transform: translate(37.5%, 26px);
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+  /* or 144% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.discount{
+  display: flex;
+  align-items: center;
+}
+.image_discount {
+  margin-right: 15px;
+}
+
+.image_discount {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  display: flex;
+  align-items: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFCB05 */
+  color: #FFCB05;
+}
+.subtract_telefon {
+  display: flex;
+  align-items: center;
+  }
+.subtract_maps {
+  display: flex;
+  align-items: center;
+  }
+
+
+.items1 {
+  margin-left: 20px;
+}
+.items2 {
+  margin-right: 20px;
+}
+
+
+

@@ -1,0 +1,365 @@
+.text_Card_Heading_Popular {
+    width: 356px;
+    margin-bottom: 31px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.card-Product-Slider {
+    width: 1119px !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: space-between !important;
+    height: 513px !important;
+    margin-right: 20px !important;
+}
+.card_Product2 {
+  margin: auto !important;
+
+}
+
+.card_type2{
+  display: flex;
+  border: 1px solid rgba(221, 225, 230, 1);
+  width: 548px;
+  height: 236px;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.card-body_type2 {
+  margin-left: 50px;
+}
+.card-body_box2_type2 {
+  margin-left: 5px;
+}
+.sale {
+  padding-left: 13px; 
+  width: 49px; 
+  height: 24px; 
+  margin-left: 6px;
+  margin-top: 6px;
+  background: #F10B34; 
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 13px;
+  /* identical to box height, or 93% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}  
+.sale20 {
+  padding-left: 13px; 
+  width: 49px; 
+  height: 24px; 
+  margin-left: 6px;
+  margin-top: 6px;
+  background: #F10B34; 
+  border-radius: 4px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 13px;
+  /* identical to box height, or 93% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}  
+
+.image_Card-box_type2{
+  width: 178px;
+  height: 194px;
+  left: calc(50% - 224px/2);
+  top: calc(50% - 224px/2);
+  background: url("../image/image 19.svg") no-repeat;
+  background-size: 226px 180px;
+}
+
+.image_Card-box2_type2 {
+  width: 224px;
+  height: 224px;
+  left: calc(50% - 224px/2);
+  top: calc(50% - 224px/2);
+  background: url("../image/image 24.svg") no-repeat;
+  background-size: 226px 180px;
+}
+
+.image_Card-box3_type2 {
+  width: 224px;
+  height: 224px;
+  left: calc(50% - 224px/2);
+  top: calc(50% - 224px/2);
+  background: url("../image/image 25.svg") no-repeat;
+  background-size: 226px 180px;
+
+}
+.card-heading-text {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.card-text1 {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  /* #202329 */
+  color: #202329;
+}
+.card-text2_type2 {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+  margin-bottom: 38px;
+}
+.card-text4{
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  /* #202329 */
+  color: #202329;
+  margin-bottom: 34px;
+}
+.price {
+   display: flex;
+   align-items: baseline;
+    margin-bottom: 13px;
+ }
+}
+
+.new_Price {
+  height: 20px;
+  width: 59px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #0AA245 */
+  color: #0AA245;
+}
+.old_price {
+  display: flex;
+  height: 11px;
+  width: 51px;
+  left: 86px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  /* identical to box height, or 107% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #70798E */
+  color: #70798E;
+}
+.old_Cash {
+    position: absolute;
+    margin-left: 4px;
+
+}
+ .size_type2 {
+    width: 280px;
+    height: 36px;
+    margin-bottom: 10px;
+ }
+
+ .text_Size_type2 {
+    float: left;
+    margin-right: 11px;
+ }
+
+ button.size_Choose {
+  width: 35px; 
+  margin-right: 3px;
+  margin-bottom: 4px;
+  height: 20px
+  background: #F4F7FB;
+/* #DDE1E6 */
+  border: 1px solid #DDE1E6;
+  box-sizing: border-box;
+  border-radius: 4px;
+ }
+
+.product_Code_type2{
+  margin-top: 176px;
+  margin-left: 9px;
+  display: flex;
+}
+
+.text_Code {
+  margin-right: 6px;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #202329 */
+  color: #202329;
+}
+
+.number_Code {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #70798E */
+  color: #70798E;
+}
+
+
+.button_Box {
+     display: flex;
+}
+
+
+.by_Product_type2 {
+
+  display: flex;
+ height: 32px;
+ width: 250px;
+ border-radius: 10px;
+ background: #0AA245;
+ border: none;
+ margin-right: 10px;
+ align-items: center;
+ justify-content: center;
+
+
+}
+.by_Product :hover {
+  cursor: pointer;
+}
+.by_Basket_Image {
+
+}
+
+.by_Basket_Text {
+  margin-left: 15px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+
+.love_Product {
+  height: 32px;
+  width: 32px;
+  border-radius: 10px;
+  border: none;
+}
+
+.carusel {
+  margin-bottom: 20px;
+  padding-top: 32px;
+  width: 66px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  justify-content: space-evenly;
+}
+
+.activ_Carusel {
+  width: 12px;
+  height: 12px;
+  background: #0AA245;
+  /* #0AA245 */
+  border: 1px solid #0AA245;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.no_acntiv_Carusel{
+  width: 8px;
+  height: 8px;
+  border: 2px solid #0AA245;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.more_Product {
+    display: flex;
+    width: 1120px;
+    margin: auto;
+    margin-bottom: 70px;
+}
+.more_Product_type2 {
+    display: flex;
+    width: 1120px;
+    margin: auto;
+    margin-bottom: 70px;
+    margin-top: 38px; 
+}
+.text_more_product {
+  margin-right: 16px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  display: flex;
+  align-items: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #0071BC */
+  color: #006FE6;
+}
+
+.mask_Right {
+  width: 24px;
+  height: 24px;
+ color: rgba(0, 111, 229, 1);
+ margin-left: 15px;
+}
