@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  position: fixed;
+  margin: auto; 
+  z-index: 1;
+}
+
+.h_banner {
+  width: 100%;
+  margin: auto;
+  height: 48px; 
+  top: 0px;
+  background: url("../image/Grouprains3.svg") #0013f7fc repeat;
+  background-size: contain;
+  background-repeat: round;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.search_img { 
+  position: absolute;
+  width: 19.71px;
+  height: 19.71px;
+  left: 2px;
+  top: 2px;
+  background: #DADADA;
+}
+
+.box_banner {
+  width: 1191px;
+}
+
+
+._banner {
+  background: url('../image/sprite.png') no-repeat top left;
+  width: 91px;
+  height: 24px;
+}
+._banner.Grouprains3 {
+  background-position: 0 0;
+}
+.banner.Grouprains {
+  background-position: -91px 0;
+}
+  
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  ._banner {
+    background: url('../image/sprite-retina.png') no-repeat top left;
+    background-size: 182px 24px;
+  }
+}
+.banner_text1 {
+      width: 96px;
+    margin: auto;
+    margin-top: 11px;
+  font-family: 'Raleway', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  /* or 114% */
+  text-align: center;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+
+.banner_text2 {
+  margin-top: 4px;
+  font-family: Raleway, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  /* or 114% */
+  text-align: center;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+
+.mask {
+  width: 24px;
+  height: 24px;
+  background: #006FE6;
+  border: none;
+  margin-left: auto;
+}
+
+.
+.topNav {
+  height: 48px;
+  background: #0AA245;
+}
+     
+
+.desktop {
+  padding-top: 48px;
+  margin: auto;
+  width: 1120px;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-desktop {
+}
+.subtract_telefon {
+    display: flex;
+    align-items: center;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.desktop_contact {
+  display: flex;
+}
+
+.desktop_icons {
+    margin-left: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.desktop_icons a{
+    margin-left: 23px;
+}
+.maps {
+   margin-top: 1px;
+   margin-left: 49px;
+}
+.shRoom {
+  margin-top: 8px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+}
+.time_Work {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 14px;
+  margin: 0;
+}

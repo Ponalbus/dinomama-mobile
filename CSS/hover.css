@@ -1,0 +1,310 @@
+a {
+  text-decoration: none;
+}
+.go_help:hover {
+   color: #006FE6;
+}
+
+.label_Product:hover {
+   color: #006FE6;
+}
+.boys_product:hover {
+   color: #006FE6;
+}
+.help_text:hover {
+   cursor: pointer;
+   color: #006FE6;
+   text-decoration: underline;
+}
+.winter_product:hover {
+   color: #006FE6;
+}
+.brend_Product:hover {
+   color: #006FE6;
+}
+.girls_product:hover {
+  transition: 0.3s;
+   color: #006FE6;
+}
+.summer_product:hover {
+   color: #006FE6;
+}
+
+button.size_Choose:hover {
+  cursor: pointer;
+}
+.card:hover {
+  transition-duration: 0.3s;
+  cursor: pointer;
+  box-shadow: 0px 8px 30px rgba(8, 41, 63, 0.26);
+}
+.card_type2:hover {
+  transition-duration: 0.3s;
+  cursor: pointer;
+  box-shadow: 0px 8px 30px rgba(8, 41, 63, 0.26);
+}
+.category_Box:hover {
+   transition-duration: 0.3s;
+  cursor: pointer;
+  box-shadow: 0px 8px 30px rgba(8, 41, 63, 0.26);
+}
+
+.interest-Box:hover {
+  transition-duration: 0.3s;
+  cursor: pointer;
+  box-shadow: 0px 8px 30px rgba(8, 41, 63, 0.26);
+}
+.more_newProduct:hover {
+  transition-duration: 0.3s;
+  cursor: pointer;
+  box-shadow: 0px 8px 30px rgba(8, 41, 63, 0.26);
+}
+
+.desktop_contact a {
+  list-style: none;
+  text-decoration: none;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #0071BC */
+  color: #006FE6;
+}
+
+.box-slider a {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  opacity: 0.5;
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+.box-slider a .discount {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  /* #FFFFFF */
+  color: red;
+}
+.box-slider a:hover {
+  transition-duration: 0.3s;
+  opacity: 1;
+}
+
+
+.topmenu  ul li  a {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 16px;
+  /* identical to box height, or 160% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  opacity: 1;
+  /* #70798E */
+  color: #70798E;
+}
+.topmenu  ul li  a:hover {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 16px;
+  /* identical to box height, or 160% */
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  transition-duration: 0.3s;
+  /* #0AA245 */
+  color: #0AA245;
+}
+
+
+
+/*Баннер1*/
+
+.banner1:hover {
+  transition-duration: 0.3s;
+}
+
+
+
+.text_more_product a {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #0071BC */
+  color: #006FE6;
+}
+
+.text_go_Blog a {
+  margin-right: 20px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  display: flex;
+  align-items: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* #FFFFFF */
+  color: #FFFFFF;
+
+}
+
+/*Кнопка в форме*/
+
+
+input::-webkit-input-placeholder { 
+  padding-left: 20px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  /* #DDE1E6 */
+  color: #DDE1E6;
+}
+
+input::-moz-placeholder { 
+  padding-left: 20px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  /* #DDE1E6 */
+  color: #DDE1E6; 
+}
+
+input[type="checkbox"] {
+  height: 24px;
+  width: 24px;
+  left: 0px;
+  top: 0px;
+  border-radius: 4px;
+
+  
+}
+.input_checkbox {
+    margin-top: 6px;
+    display: flex;
+    align-items: center;
+    height: 38px;
+    width: 273px;
+}
+
+
+.input_checkbox  a {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+
+input[type="checkbox"]:checked, 
+input[type="checkbox"]:not(:checked) {
+    position: absolute;
+    left: -9999px;
+}
+
+input[type="checkbox"]:checked + label, 
+input[type="checkbox"]:not(:checked) + label {
+    display: flex;
+    position: relative;
+    padding-left: 28px;
+    line-height: 20px;
+    cursor: pointer;
+}
+
+input[type="checkbox"]:checked + label:before, 
+input[type="checkbox"]:not(:checked) + label:before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 24px;
+    height: 24px;
+    border: 1px solid #dddddd;
+    background-color: #ffffff;
+}
+
+input[type="checkbox"]:checked + label:before, 
+input[type="checkbox"]:not(:checked) + label:before {
+    border-radius: 2px;
+}
+
+
+
+input[type="checkbox"]:checked + label:after, 
+input[type="checkbox"]:not(:checked) + label:after {
+    content: "";
+    position: absolute;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+input[type="checkbox"]:checked + label:after, 
+input[type="checkbox"]:not(:checked) + label:after {
+    left: 4px;
+    top: 5px;
+    width: 11px;
+    height: 8px;
+    border-radius: 1px;
+    border-left: 4px solid  #0071BC;
+    border-bottom: 4px solid #0071BC;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+
+
+
+input[type="checkbox"]:not(:checked) + label:after {
+    opacity: 0;
+}
+
+input[type="checkbox"]:checked + label:after {
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
